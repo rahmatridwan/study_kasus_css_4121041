@@ -1,0 +1,21 @@
+body{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.header{
+	text-align: center;
+}
+.kontent{
+	text-align: center;
+    font-family: Arial, sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+.gambar{
+	height: 500px;
+    background-image: url('omah.jpg');
+    background-position: center;
+    background-size: cover;
+    border: 1px solid black;
+}
